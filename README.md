@@ -1,4 +1,4 @@
-### # LMS Frontend
+### # employeeManagement Frontend
 
 ### Setup instruction
 
