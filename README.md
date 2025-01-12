@@ -5,13 +5,13 @@
 1. Clone the project
 
 ```
-    git clone https://github.com/Susama012/employeeManagementSystem.git
+    git clone https://github.com/Susama012/EmployeeManagementSystem.git
 ```
 
 2. Move into the directory
 
 ```
-    cd employeeManagementSystem
+    cd EmployeeManagementSystem
 ```
 
 3. install dependencies
